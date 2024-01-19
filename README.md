@@ -6,7 +6,7 @@ Le projet est structuré en plusieurs classes, chacune représentant un concept 
 
 Si je devais expliquer ce projet simplement, je dirais qu'il s'agit d'un jeu d'aventure où on doit naviguer à travers un labyrinthe en interagissant avec divers éléments et en prenant des décisions stratégiques. Le code est structuré de manière à favoriser la lisibilité, la modularité et la réutilisabilité, ce qui est important pour la maintenance et l'extension du jeu. L'utilisation de l'interface graphique Swing offre une expérience utilisateur visuelle, ce qui rend le jeu plus attrayant. Enfin, je soulignerais l'importance de comprendre le chargement de données à partir d'un fichier CSV pour créer différents niveaux de jeu.
 
-                                        ----------------------------------------------------
+------------- ENGLISH VERSION -------------
 
 This project is a game developed in Java with a graphical interface using the Swing library. The game takes place in a labyrinth where an adventurer must navigate through different tiles representing elements such as oceans, islands, rocks, currents, etc. The adventurer can interact with characters like pirates, sirens, and other entities such as storms.
 
